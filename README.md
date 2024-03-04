@@ -32,3 +32,11 @@ Content-Type: application/json<br/>
 Content-Length: 22
 
 {"palindrome":"abba"}
+
+Запустить
+
+bash start.sh
+
+Тест
+
+python test.py
